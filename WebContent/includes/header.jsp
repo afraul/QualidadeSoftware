@@ -5,7 +5,7 @@
 <html lang="pt">
 <head>
 	<meta charset="utf-8">
-	<title>LGPR Soluções</title>
+	<title>REG Soluções</title>
 	<meta content="width=device-width, initial-scale=1.0" name="viewport">
 	<meta content="" name="keywords">
 	<meta content="" name="description">
@@ -79,7 +79,7 @@
 		<div class="container">
 
 			<div id="logo" class="pull-left">
-				<h1> <a href="<%=request.getContextPath()%>/index.jsp" class="scrollto">LGPR <span>Soluções</span> </a> </h1>
+				<h1> <a href="<%=request.getContextPath()%>/index.jsp" class="scrollto">REG <span>Soluções</span> </a> </h1>
 			</div>
 
 			<nav id="nav-menu-container">

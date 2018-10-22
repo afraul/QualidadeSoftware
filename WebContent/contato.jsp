@@ -13,7 +13,7 @@
 				<div class="contact-address">
 					<i class="ion-ios-location-outline"></i>
 					<h3>Endereço</h3>
-					<address>Rua 17 Qd. 19 Lt.12b Conjunto Uirapuru - Senador Canedo(GO)</address>
+					<address>Rua 23 Qd A13 - Goiânia(GO)</address>
 				</div>
 			</div>
 
@@ -22,7 +22,7 @@
 					<i class="ion-ios-telephone-outline"></i>
 					<h3>Telefone</h3>
 					<p>
-						<a>(62) 99374-2697</a>
+						<a>(62) 99207-4646</a>
 					</p>
 				</div>
 			</div>
@@ -32,7 +32,7 @@
 					<i class="ion-ios-email-outline"></i>
 					<h3>Email</h3>
 					<p>
-						<a href="mailto:info@example.com">geovanyscv@gmail.com</a>
+						<a href="mailto:info@example.com">raularaujo@zgsolucoes.com.br</a>
 					</p>
 				</div>
 			</div>
