@@ -4,7 +4,7 @@
 <section id="intro">
 
 	<div class="intro-content">
-		<h2>Alugue seu equipamento aqui!</h2>
+		<h2>Reserva de laboratórios aqui!</h2>
 		<div>
 			<c:choose>
    				<c:when test="${userSession != null}">
